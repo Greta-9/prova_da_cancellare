@@ -9,3 +9,8 @@
 
 Il primo **passaggio** si effettua così:
 
+```
+public class
+public static
+
+```
