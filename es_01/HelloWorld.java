@@ -3,7 +3,7 @@
  */
 public class HelloWorld { //ricordarsi che il nome della classe deve corrispondere al nome del file
     public static void main(String[] args) {
-        System.out.println("Ciao Mondo!");
+        System.out.println("Hello, World!");
     }
 }
 /* note
